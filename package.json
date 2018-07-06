@@ -12,5 +12,16 @@
   "license": "ISC",
   "devDependencies": {
     "pre-commit": "^1.2.2"
-  }
+  },
+  "dependencies": {
+    "chalk": "^2.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuzhaoxu1996/anydoor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/liuzhaoxu1996/anydoor/issues"
+  },
+  "homepage": "https://github.com/liuzhaoxu1996/anydoor#readme"
 }
